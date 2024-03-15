@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  background-color: rgb(160, 160, 0);
+  border-radius: 100px;
+}
+
+.box {
+    position: 
+    width: 150px;
+    height: 150px;
+    background-color: rgb(160, 160, 0);
+    border-radius: 100px;
+  }
+
+.box-relative {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(160, 160, 0);
+    border-radius: 100px;
+  }
